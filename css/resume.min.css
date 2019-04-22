@@ -176,3 +176,8 @@ section.resume-section .resume-item .resume-date {
 a {
     color: #6ea078
 }
+
+.popover-body {
+    padding: 0rem .2rem;
+    color: #6ea078;
+}
